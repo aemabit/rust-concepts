@@ -6,4 +6,4 @@
 
 ##### USAGE
 
-- Copy the code inside of any folder in `src` in the main.rs
+- Copy any code inside the `src -> <folder_name> -> main.rs` into `src -> main.rs`
